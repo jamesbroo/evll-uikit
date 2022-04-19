@@ -14,6 +14,7 @@ export declare const additionalColors: {
     gold: string;
     silver: string;
     bronze: string;
+    buttonBg: string;
 };
 export declare const lightColors: Colors;
 export declare const darkColors: Colors;

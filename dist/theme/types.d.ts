@@ -42,6 +42,7 @@ export declare type Colors = {
     success: string;
     failure: string;
     warning: string;
+    buttonBg: string;
     cardBorder: string;
     contrast: string;
     dropdown: string;
